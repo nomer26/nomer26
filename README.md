@@ -11,6 +11,8 @@
 
 ## 🔭 I'm currently working on
 
+####  NCP CLoud
+####  Kubernetes Study (gasida)
 ####  PS  (Alogithm)
 
 ## 🌱 I'm currently learning
