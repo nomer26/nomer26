@@ -17,7 +17,10 @@
 
 
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&color=ACE)
-![](https://img.shields.io/badge/API-FastAPI-informational?style=flat&logo=FastAPI&color=BBAABB)
+![](https://img.shields.io/badge/Terraform-informational?style=flat&logo=Terraform&color=BBAABB)
+![](https://img.shields.io/badge/CNI-informational?style=flat&logo=Cni&color=BBAABB)
+![](https://img.shields.io/badge/Cilium-informational?style=flat&logo=Cilium&color=BBAABB)
+![](https://img.shields.io/badge/eBPF-informational?style=flat&logo=eBPFcolor=BBAABB)
 
 ## 💼 Technical Skills
 <b>DevOps</b>
